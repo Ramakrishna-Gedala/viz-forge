@@ -1,6 +1,10 @@
-# Data Processing Learning Platform
+# Python Data Visualization & Processing Platform (Matplotlib + Seaborn + Plotly + PySpark) | VizForge
 
-An end-to-end full-stack application that demonstrates **8 Python data tools** through real-world scenarios. Each tool gets its own dedicated section with a real CSV dataset, a FastAPI router, and a React page with interactive filters and visualizations.
+## Learn 8 Python data tools with interactive charts, real datasets, and a full-stack FastAPI + React app
+
+A **production-grade data visualization and processing platform** that teaches **Matplotlib, Seaborn, Plotly, Pandas, Bokeh, Altair, PySpark, and NumPy** through real-world scenarios — each tool gets its own CSV dataset, FastAPI endpoint, and React page with interactive filters and live charts. Built for **data engineers, data scientists, and Python developers** learning modern data visualization and big data processing.
+
+![Python Data Visualization — Matplotlib, Seaborn, Plotly, Pandas, Bokeh, Altair, PySpark, NumPy](docs/assets/python-data-visualization-matplotlib-seaborn-plotly-pyspark.png)
 
 ---
 
